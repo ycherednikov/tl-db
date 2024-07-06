@@ -13,9 +13,16 @@
       "id": 2
     },
     {
-      "description": "socks2",
+      "description": "socks",
       "quantity": 2,
-      "packed": false
+      "packed": false,
+      "id": 3
+    },
+    {
+      "description": "tshirt",
+      "quantity": 4,
+      "packed": false,
+      "id": 4
     }
   ]
 }
